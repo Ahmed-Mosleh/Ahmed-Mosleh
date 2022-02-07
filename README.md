@@ -7,3 +7,5 @@
 🌱 I’m currently learning python , Flutter , Machinelearning
 
 📫 How to reach me: ahmedhitler2345@gmail.com , 01150688428
+
+(https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
