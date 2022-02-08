@@ -18,7 +18,7 @@
 </div>
 
 <a href="https://share.streamlit.io/rahulbanerjee26/githubaboutmegenerator/main/__init__.py">
-    <img src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/screencast_ghub_profile_gen_v1.gif' 
+    <img src='https://www.google.com/search?q=%D8%B5%D9%88%D8%B1+.gif+%D8%A8%D8%B1%D9%85%D8%AC%D8%A9&tbm=isch&ved=2ahUKEwjP762r7e71AhUMuhQKHfGTBN8Q2-cCegQIABAA&oq=%D8%B5%D9%88%D8%B1+.gif+%D8%A8%D8%B1%D9%85%D8%AC%D8%A9&gs_lcp=CgNpbWcQA1DvDVjwQmDXRWgBcAB4AIABrgGIAdAMkgEEMC4xMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=zrkBYs_QD4z0UvGnkvgN&bih=578&biw=1366&rlz=1C1YEIU_arEG991EG991#imgrc=mt4A506rhHpR6M' 
          alt='Screencast of Github AboutMe/Profile ReadMe Generator' 
          title='Go to web app'/>
 </a>
