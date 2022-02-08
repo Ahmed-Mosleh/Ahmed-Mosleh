@@ -1,14 +1,12 @@
 
+👋Hi, I’m Engineer Ahmed Mosleh
 
- 🚀
+👀 I’m interested in Programming , Designing
 
-<a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="blank">
-<img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator&logo=github&style=flat-square" />
-</a>
+🌱 I’m currently learning python , Flutter , Machinelearning
 
-Try the tool: [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator)
-
-## 🧐 Features
+📫 How to reach me: ahmedhitler2345@gmail.com , 01150688428
+ 🧐 Features
 
 Just fill in the details such as `Name`, `Tagline`, `Dev Platforms Username`, `Current Work`, `Portfolio`, `Blog`, etc. with a minimal UI.
 
@@ -113,13 +111,4 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 <p align="center">
 Developed with ❤️ in India 🇮🇳 
 </p>
-
-👋Hi, I’m Engineer Ahmed Mosleh
-
-👀 I’m interested in Programming , Designing
-
-🌱 I’m currently learning python , Flutter , Machinelearning
-
-📫 How to reach me: ahmedhitler2345@gmail.com , 01150688428
-
 
