@@ -6,109 +6,110 @@
 🌱 I’m currently learning python , Flutter , Machinelearning
 
 📫 How to reach me: ahmedhitler2345@gmail.com , 01150688428
- 🧐 Features
+ # GitHub Profile README / About Me Generator 💯
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+<a href="https://www.producthunt.com/posts/github-profile-readme-generator-2?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-github-profile-readme-generator-2" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=294427&theme=light" alt="Github Profile README Generator - A Few inputs+ ~15mins= Github Profile reaches a new level 🔥 | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+[![Streamlit-Badge](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/rahulbanerjee26/githubaboutmegenerator/main/__init__.py "Go to web app")
 
-Just fill in the details such as `Name`, `Tagline`, `Dev Platforms Username`, `Current Work`, `Portfolio`, `Blog`, etc. with a minimal UI.
+<div align='center'>
+    
+## This web app lets you build a cool README for your profile.
 
-- **Uniform Dev Icons**
+</div>
 
-- **Uniform Social Icons**
-
-- **Visitors Counter Badge**
-
-- **GitHub Profile Stats Card**
-
-- **GitHub Top Skills**
-
-- **GitHub Streak Stats**
-
-- **Dynamic Dev(.)to Blogs** (GitHub Action)
-
-- **Dynamic Medium Blogs** (GitHub Action)
-
-- **Dynamic Personal Blogs from RSS Feed** (GitHub Action)
-
-- **Wakatime Stats** [contribute](https://github.com/rahuldkjain/github-profile-readme-generator/issues/115)
-
-- **Buy Me A Coffee button**
-
-Click on `Generate README` to get your README in `markdown`.
-You can preview the README too.
-
-## 🛠️ Installation Steps
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/rahuldkjain/github-profile-readme-generator.git
-```
-
-2. Change the working directory
-
-```bash
-cd github-profile-readme-generator
-```
-
-3. Install dependencies
-
-```bash
-npm install
-```
-
-4. Run the app
-
-```bash
-npm start
-```
-
-🌟 You are all set!
-
-## 🍰 Contributing
-
-Please contribute using [GitHub Flow](https://guides.github.com/introduction/flow). Create a branch, add commits, and [open a pull request](https://github.com/rahuldkjain/github-profile-readme-generator/compare).
-
-Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDUCT`](CODE_OF_CONDUCT.md), and the process for submitting pull requests to us.
-
-## 💻 Built with
-
-- [Gatsby](https://www.gatsbyjs.com/)
-- [Tailwind CSS](https://tailwindcss.com/): for styling
-- [GSAP](https://greensock.com/gsap/): for small SVG Animations
-
-## 🙇 Special Thanks
-
-- [Anurag Hazra](https://github.com/anuraghazra) for amazing [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- [Anton Komarev](https://github.com/antonkomarev) for super cool [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
-- [Gautam Krishna R](https://github.com/gautamkrishnar) for the awesome [blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-- [Jonah Lawrence](https://github.com/DenverCoder1) for the incredible [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-- [Julien Monty](https://github.com/konpa) for super useful [devicon](https://github.com/konpa/devicon)
-- [Eliot Sanford](https://github.com/techieeliot) for adding hashnode as a blog input
-
-## 🙇 Sponsors
-
-- [Scott C Wilson](https://github.com/scottcwilson) donated the first-ever grant to this tool. A big thanks to him.
-- [Max Schmitt](https://github.com/mxschmitt) loved the tool and showed support with his donation. Thanks a lot.
-- [Aadit Kamat](https://github.com/aaditkamat) find the tool useful and showed support with his donation. A big thanks to him.
-- [Jean-Michel Fayard](https://github.com/jmfayard) used the generator to create his GitHub Profile README and he loved it. Thanks to him for showing support to the tool with the donation.
-
-## 🙏 Support
-
-<p align="left">
-<a href="https://www.paypal.me/rahuldkjain/10"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
+<a href="https://share.streamlit.io/rahulbanerjee26/githubaboutmegenerator/main/__init__.py">
+    <img src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/screencast_ghub_profile_gen_v1.gif' 
+         alt='Screencast of Github AboutMe/Profile ReadMe Generator' 
+         title='Go to web app'/>
 </a>
-<a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Frahuldkjain.github.io%2Fgithub-profile-readme-generator">
-<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Frahuldkjain.github.io%2Fgithub-profile-readme-generator" alt="tweet github profile readme generator"/>
-</a>
-</p>
 
-<p align="left">
-  <a href='https://ko-fi.com/A0A81XXSX' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for rahuldkjain' />
-  </a>
-  <a href="https://www.buymeacoffee.com/rahuldkjain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
-</p>
+<div align ='center'>
+    
+## A few inputs + ~15 mins = Your GitHub Profile reaches a new level 🔥
+    
+</div>
 
-<hr>
-<p align="center">
-Developed with ❤️ in India 🇮🇳 
-</p>
+
+## Live 🌞
+
+[![Go to - Live Site](https://img.shields.io/badge/Go_to-Live_Site-2ea44f?style=for-the-badge)](https://share.streamlit.io/rahulbanerjee26/githubaboutmegenerator/main/__init__.py)
+
+## Article 📝
+
+- [How to create a GitHub Profile README using this web app](https://www.realpythonproject.com/a-free-tool-to-take-your-github-profile-to-the-next-level/) on RealPythonProjet.
+
+The article contains resources for GIFs, royalty free images/icons and tutorials on how to create your secret repo for the About Me Page, setting up the blog flow action etc.
+
+## Usage 🔧
+
+- Fill in the text boxes. Leave the ones you do not wish to fill blank.
+- By default the generated ReadMe has GitHub stats and Wakatime stats, feel free to remove them.
+- If you want to build on top of the Readme, </a> refer to the article I mentioned above </a> for resources and tips
+- If you used this app to build your README, consider adding yourself to the "Users who used this app to generate a README" section. You can showcase your README and others will be able to view it and star it. You are guaranteed a star from me ⭐
+
+## Built With 🧰
+
+- [Python](https://github.com/python)
+- [Streamlit](https://github.com/streamlit)
+
+## Features 💿
+
+<ul>
+    <li>GIFs</li>
+    <li>Social Icons</li>
+    <li>Skill Icons</li>
+    <li>Visitors Badge</li>
+    <li>Github Stats</li>
+    <li>WakaTime Stats</li>
+    <li>.yml file to display Blog Posts from your feed</li>
+    <li>Ability to add image banners at beginning of README</li>
+    <li>Random Jokes Card</li>
+</ul>
+
+### Update 05-01-2020 🗓
+
+- Clicking on Skills shows your github repos filtered on that skill
+- Chose GitHub Stats Card Type
+- Cool Image in About Me section
+- Fixed styling 
+- Added Default Content
+<!-- /wp:list -->
+
+## Running Locally 🖥️
+
+1. Clone the repo or your fork.
+1. Create a virtual environment
+    ```sh
+    python -m venv venv
+    ```
+1. Activate the virtual environment
+    ```sh
+    # Windows 
+    venv/Scripts/activate
+    
+    # Linux/macOS
+    source venv/bin/activate
+    ```
+1. Install required dependencies
+    ```sh
+    pip install -r requirements.txt
+    ```
+1. Run the App 
+    ```sh
+    streamlit run __init__.py
+    ```
+
+## Contributors ✨
+
+- Rahul Banerjee - [@rahulbanerjee26](https://github.com/rahulbanerjee26) <banerjeer2611@gmail.com>
+- Michael Currin - [@MichaelCurrin](https://github.com/MichaelCurrin)
+
+## Contributing 🤝
+
+### Feature Suggestion and Problems 💎
+
+Go to [Issues](https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/issues) on the repo.
+
+- Create an explaining the Feature.
+- If you find any errors/issues, feel free to create an Issue.
 
